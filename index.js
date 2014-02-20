@@ -2,8 +2,8 @@
  * Module dependencies.
  */
 
-var Tween = require('tween');
-var raf = require('raf');
+var Tween = require('component-tween');
+var raf = require('component-raf');
 
 /**
  * Expose `scrollTo`.
